@@ -28,7 +28,7 @@ class FormField(AbstractFormField):
 class ContactPage(AbstractEmailForm):
 
     template = "contact/contact_page.html"
-    # This is the default path.
+    # This is the default path.nxsncjks
     # If ignored, Wagtail adds _landing.html to your template name
     landing_page_template = "contact/contact_page_landing.html"
 
